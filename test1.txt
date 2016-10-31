@@ -2,3 +2,5 @@ Test file in test branch
 hello I am Naveen
 hey
 this is again a conflict.
+this is in codebranch 
+this is new line for conflict.
