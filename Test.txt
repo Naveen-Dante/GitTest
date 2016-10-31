@@ -1,0 +1,1 @@
+This is the test for adding the file using git add <filename>
